@@ -16,15 +16,15 @@ This is the [Tangle Crew](https://discord.gg/tanglecrew) organization on GitHub 
 
 ### [TangleBot](https://github.com/Tangle-Crew/TangleBot)
 
-Our Discord bot. Runs the prize wheel, donation and pet leaderboards, LFG roles and forum posts, KC/drop proof intake, and a honeypot trap for scam accounts — see its README for the full command list.
+Our Discord bot — prize wheel, donation/pet leaderboards, LFG roles and posts, proof intake, and anti-scam tooling.
 
 ### [ShopScapeCalc](https://github.com/Tangle-Crew/ShopScapeCalc)
 
-A shop-price calculator that models how OSRS shop prices shift with each buy/sell and reset on a world hop, so you can plan the most efficient batch size. Single static `index.html`, no backend — live at [shopscapecalc.tanglecrew.group](https://shopscapecalc.tanglecrew.group).
+Browser-based calculator for optimal OSRS shop buy/sell batch sizes. Live at [shopscapecalc.tanglecrew.group](https://shopscapecalc.tanglecrew.group).
 
 ### [.github](https://github.com/Tangle-Crew/.github)
 
-This repo — org-wide profile and defaults.
+Org-wide profile and community health files (this repo).
 
 ## License
 
